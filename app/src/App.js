@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello, today is Thursday
+          Hello, today is Thursday and this is a test branch
         </p>
         <a
           className="App-link"
@@ -20,7 +20,7 @@ function App() {
         </a>
         <a 
           className="App-link"
-          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=jovial-winter-00D5677F.azurestaticwebsites.net"
+          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=relaxing-butterfly-0F2172CF.azurestaticwebsites.net"
         >
         Log in with Azure AD
         </a>
