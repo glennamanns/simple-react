@@ -20,7 +20,7 @@ function App() {
         </a>
         <a 
           className="App-link"
-          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=relaxing-butterfly-0F2172CF.azurestaticwebsites.net"
+          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=gleeful-grove-0784273f.azurestaticwebsites.net"
         >
         Log in with Azure AD
         </a>
